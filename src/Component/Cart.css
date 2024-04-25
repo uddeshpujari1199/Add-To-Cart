@@ -1,0 +1,24 @@
+.Cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    border: none;
+    padding: 10px;
+}
+button:hover{
+    background-color: royalblue;
+    color: white;
+}
+.Details{
+    margin-right: 300px;
+    margin-left: 30px;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.total{
+    margin-left: 500px;
+}

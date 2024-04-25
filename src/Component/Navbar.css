@@ -1,0 +1,12 @@
+.Nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #645cff;
+    color: white;
+    height: 50px;
+}
+.Nav li{
+    list-style: none;
+    margin: 0 20%;
+}
